@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "376516084922",
+    "firebase_url": "https://keesir-app.firebaseio.com",
+    "project_id": "keesir-app",
+    "storage_bucket": "keesir-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376516084922:android:4b27071f992a7381",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376516084922-alutpjsib32lfjuc2bp4ibb7a1dk0qu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "36a32309c7ae47896e41a98a1c8d17110161f6f0"
+          }
+        },
+        {
+          "client_id": "376516084922-fuuse8jbvq5edelni0rpjv16efh7jk17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gpjteCNq_MmedA0xKIE3lsyOrFwOFDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376516084922-fuuse8jbvq5edelni0rpjv16efh7jk17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376516084922:android:6a5d2584640fe675",
+        "android_client_info": {
+          "package_name": "com.willneto.portafolha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376516084922-c3am98gbj4o6r8g9f9o80re7t034hccq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willneto.portafolha",
+            "certificate_hash": "b0790fc9117b346ec8e7e7bcdf743eeb1ce6ad6b"
+          }
+        },
+        {
+          "client_id": "376516084922-3e5lnpund32asbvv9csf1i6iei3p9ng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willneto.portafolha",
+            "certificate_hash": "c9c3fc9ae4a8220c9f98a8e69b2705c2f5521bbf"
+          }
+        },
+        {
+          "client_id": "376516084922-80lppkcc73k4oqg3age2eushbq1mioca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willneto.portafolha",
+            "certificate_hash": "36a32309c7ae47896e41a98a1c8d17110161f6f0"
+          }
+        },
+        {
+          "client_id": "376516084922-fuuse8jbvq5edelni0rpjv16efh7jk17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gpjteCNq_MmedA0xKIE3lsyOrFwOFDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376516084922-fuuse8jbvq5edelni0rpjv16efh7jk17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
